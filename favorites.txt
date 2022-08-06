@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Chicken Butter masala
 Panner 
 Szehwan fried rice
+=======
+Pursuit of happiness
+Rush Hour 2 & 3
+Hit Man
+Act of valour
+>>>>>>> movies
